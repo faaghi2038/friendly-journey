@@ -1,0 +1,11 @@
+shield_bash = {}
+
+[general]
+	#Set to true to have only Vanilla-based shields enabled. Note that this removes mod-based Shield recipes from the game!
+	vanilla_only = false
+	#Will force the uncraftable shield tooltip (highlighted in red) that show on some shields to not appear. Useful for modpack makers who wish to change recipes
+	force_disable_uncraftable_tooltips = false
+	#Durability Multiplier for Tower Shield variants compared to their basic Shield counterparts
+	#Range: 1.0 ~ 10.0
+	tower_shield_durability_multiplier = 1.25
+
