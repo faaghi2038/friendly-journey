@@ -4345,3 +4345,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 22:56:39.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
 [08Mar2025 23:01:39.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
 [08Mar2025 23:01:39.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[08Mar2025 23:06:39.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[08Mar2025 23:06:39.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[08Mar2025 23:10:24.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[08Mar2025 23:11:39.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[08Mar2025 23:11:39.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[08Mar2025 23:16:39.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[08Mar2025 23:16:39.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
