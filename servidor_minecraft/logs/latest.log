@@ -1458,3 +1458,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 18:28:59.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the time to 1000]
 [08Mar2025 18:30:14.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [08Mar2025 18:30:32.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[08Mar2025 18:48:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 645 blocks]
+[08Mar2025 18:49:17.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 16250 blocks]
+[08Mar2025 18:49:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 2679 blocks]
+[08Mar2025 18:49:31.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 16250 blocks]
