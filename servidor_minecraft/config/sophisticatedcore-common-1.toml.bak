@@ -1,6 +1,5 @@
 
 #Common Settings
 [common]
-	#Disable / enable any items here (disables their recipes)
-	enabledItems = []
+	enabledItems = ["sophisticatedbackpacks:advanced_compacting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true"]
 
