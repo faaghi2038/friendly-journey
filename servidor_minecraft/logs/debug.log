@@ -5603,3 +5603,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 20:18:20.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
 [08Mar2025 20:23:20.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
 [08Mar2025 20:23:20.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[08Mar2025 20:28:20.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[08Mar2025 20:28:20.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[08Mar2025 20:33:20.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[08Mar2025 20:33:20.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
