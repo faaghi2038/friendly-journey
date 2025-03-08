@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-08 18:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-01 19:05:47 +0000"
@@ -488,6 +494,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-03-05 01:24:29 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-08 18:26:24 +0000"
     },
     "done": true
   },
@@ -3712,7 +3724,6 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-03-08 02:09:19 +0000",
       "minecraft:taiga": "2025-02-04 05:36:42 +0000",
       "minecraft:deep_ocean": "2025-02-02 01:06:52 +0000",
       "minecraft:frozen_river": "2025-02-04 05:47:16 +0000",
@@ -3823,6 +3834,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-01 20:48:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-08 18:26:24 +0000"
     },
     "done": true
   },
