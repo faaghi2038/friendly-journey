@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-04 23:32:39 +0000"
@@ -227,12 +221,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2025-03-05 00:23:03 +0000"
@@ -389,12 +377,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 23:26:48 +0000"
@@ -404,18 +386,6 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-05 01:25:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft.tab/chocobo_drumstick_cooked_from_smoking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
@@ -569,12 +539,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft.tab/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-04 23:30:22 +0000"
@@ -653,21 +617,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-03-06 22:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-05 01:25:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-03-06 22:49:50 +0000"
     },
     "done": true
   },
@@ -767,12 +719,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-05 00:18:59 +0000"
@@ -782,12 +728,6 @@
   "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
     "criteria": {
       "has_weathered_copper": "2025-03-06 02:03:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-03-06 22:49:50 +0000"
     },
     "done": true
   },
@@ -830,12 +770,6 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-05 01:31:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-03-06 23:31:31 +0000"
     },
     "done": true
   },
@@ -893,12 +827,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-03-06 22:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-04 23:30:22 +0000"
@@ -926,12 +854,6 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-03-04 23:27:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-03-06 23:27:37 +0000"
     },
     "done": true
   },
@@ -1289,12 +1211,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft.tab/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-03-04 20:49:18 +0000",
@@ -1532,12 +1448,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-06 02:04:55 +0000"
@@ -1580,12 +1490,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/chococraft.tab/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2025-03-04 23:26:48 +0000"
@@ -1604,12 +1508,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-05 00:23:17 +0000"
@@ -1619,12 +1517,6 @@
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-03-04 23:26:48 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft.tab/gysahl_cake": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
     },
     "done": true
   },
@@ -1640,21 +1532,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-05 01:25:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
@@ -1825,16 +1705,9 @@
     "criteria": {
       "apple": "2025-03-05 01:14:40 +0000",
       "bread": "2025-03-04 23:29:19 +0000",
-      "cooked_chicken": "2025-03-06 02:28:01 +0000",
-      "carrot": "2025-03-06 22:49:58 +0000"
+      "cooked_chicken": "2025-03-06 02:28:01 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-03-06 23:27:37 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1869,12 +1742,6 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-05 01:34:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
     },
     "done": true
   },
@@ -1968,12 +1835,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2025-03-04 23:26:48 +0000"
@@ -2031,12 +1892,6 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-05 01:31:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
@@ -2196,12 +2051,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-03-06 22:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-06 02:47:59 +0000"
@@ -2217,18 +2066,6 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 23:26:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-03-06 22:53:19 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft.tab/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
@@ -2265,12 +2102,6 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-06 02:15:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft.tab/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
     },
     "done": true
   },
@@ -2328,18 +2159,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft.tab/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-06 01:42:38 +0000"
@@ -2351,14 +2170,6 @@
       "has_planks": "2025-03-04 23:36:47 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "onion": "2025-03-06 22:53:47 +0000",
-      "tomato": "2025-03-06 22:53:55 +0000",
-      "potato": "2025-03-06 22:53:31 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -2408,12 +2219,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-03-05 00:23:17 +0000"
@@ -2435,12 +2240,6 @@
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-03-05 00:16:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
@@ -2492,12 +2291,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft.tab/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-03-06 22:51:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-06 20:48:49 +0000"
@@ -2513,12 +2306,6 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-03-06 02:26:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-03-06 22:53:00 +0000"
     },
     "done": true
   },
@@ -2744,12 +2531,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft.tab/chocobo_drumstick_cooked": {
-    "criteria": {
-      "has_raw_drumstick": "2025-03-06 22:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-04 23:30:22 +0000"
@@ -2783,12 +2564,6 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-04 23:42:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-03-06 22:53:19 +0000"
     },
     "done": true
   },
@@ -2852,12 +2627,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-03-06 22:49:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-03-06 02:05:46 +0000"
@@ -2867,12 +2636,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-05 01:34:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-03-06 23:31:31 +0000"
     },
     "done": true
   },
@@ -2906,12 +2669,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-03-06 22:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-03-05 00:23:03 +0000"
@@ -2939,12 +2696,6 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-03-06 01:42:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 22:49:51 +0000"
     },
     "done": true
   },
