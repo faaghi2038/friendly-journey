@@ -972,3 +972,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 03:44:09.144] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Mar2025 03:44:09.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Mar2025 03:57:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[09Mar2025 04:00:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
