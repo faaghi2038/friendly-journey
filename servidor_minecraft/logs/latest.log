@@ -977,3 +977,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 04:18:45.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hakime'/1101, l='ServerLevel[pendejillos]', x=307.28, y=-1.00, z=126.28] died: Hakime fell from a high place
 [09Mar2025 04:18:47.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gündüz'/1084, l='ServerLevel[pendejillos]', x=307.70, y=-1.00, z=126.21] died, message: 'Gündüz hit the ground too hard'
 [09Mar2025 04:18:47.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gündüz'/1084, l='ServerLevel[pendejillos]', x=307.70, y=-1.00, z=126.21] died: Gündüz fell from a high place
+[09Mar2025 04:55:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set the time to 13000]
+[09Mar2025 04:57:49.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[09Mar2025 04:57:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[09Mar2025 04:57:49.923] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[09Mar2025 04:57:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Mar2025 04:57:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 04:57:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 04:57:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 04:58:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:overworld
+[09Mar2025 04:58:00.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_end
+[09Mar2025 04:58:00.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/deeperdarker:otherside
+[09Mar2025 04:58:00.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_nether
+[09Mar2025 04:58:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pendejillos): All chunks are saved
+[09Mar2025 04:58:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 04:58:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09Mar2025 04:58:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 04:58:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
