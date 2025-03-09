@@ -973,3 +973,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Mar2025 03:44:09.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Mar2025 03:57:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
 [09Mar2025 04:00:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[09Mar2025 04:18:45.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hakime'/1101, l='ServerLevel[pendejillos]', x=307.28, y=-1.00, z=126.28] died, message: 'Hakime hit the ground too hard'
+[09Mar2025 04:18:45.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hakime'/1101, l='ServerLevel[pendejillos]', x=307.28, y=-1.00, z=126.28] died: Hakime fell from a high place
+[09Mar2025 04:18:47.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gündüz'/1084, l='ServerLevel[pendejillos]', x=307.70, y=-1.00, z=126.21] died, message: 'Gündüz hit the ground too hard'
+[09Mar2025 04:18:47.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gündüz'/1084, l='ServerLevel[pendejillos]', x=307.70, y=-1.00, z=126.21] died: Gündüz fell from a high place
