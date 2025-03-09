@@ -1865,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-09 18:34:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-01 22:59:18 +0000"
@@ -3784,6 +3790,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-09 18:33:48 +0000",
       "minecraft:taiga": "2025-02-04 05:36:42 +0000",
       "minecraft:deep_ocean": "2025-02-02 01:06:52 +0000",
       "minecraft:frozen_river": "2025-02-04 05:47:16 +0000",
@@ -4159,6 +4166,12 @@
   "beautify:frames": {
     "criteria": {
       "requirement": "2025-02-01 23:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-09 18:34:11 +0000"
     },
     "done": true
   },
@@ -4781,6 +4794,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-09 18:34:11 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft.tab/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-02-01 22:00:24 +0000"
@@ -4934,6 +4953,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-01 21:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-09 18:16:48 +0000"
     },
     "done": true
   },
