@@ -922,3 +922,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 17:07:28.275] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
 [10Mar2025 17:07:28.278] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [10Mar2025 17:07:28.292] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[10Mar2025 17:41:04.149] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Mar2025 17:41:04.241] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fc24bcd
+[10Mar2025 17:41:04.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:39431] logged in with entity id 101 at (-25.355856317250232, 245.0, 1481.2230298204893)
+[10Mar2025 17:41:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[10Mar2025 17:41:04.440] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[10Mar2025 17:41:07.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[10Mar2025 17:41:07.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[10Mar2025 17:41:07.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[10Mar2025 17:41:44.459] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[10Mar2025 17:41:49.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[10Mar2025 17:41:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[10Mar2025 17:41:49.359] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[10Mar2025 17:41:49.473] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Mar2025 17:42:04.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a561a41
+[10Mar2025 17:42:04.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:43195] logged in with entity id 223 at (-27.704821328621378, 245.0, 1480.976021872316)
+[10Mar2025 17:42:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[10Mar2025 17:42:04.639] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[10Mar2025 17:42:07.689] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[10Mar2025 17:42:07.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[10Mar2025 17:42:07.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[10Mar2025 17:42:34.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[10Mar2025 17:42:34.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[10Mar2025 17:42:34.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[10Mar2025 17:43:07.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29bac8de
+[10Mar2025 17:43:07.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:59181] logged in with entity id 346 at (-29.214683585040568, 245.0, 1480.6831691777843)
+[10Mar2025 17:43:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[10Mar2025 17:43:07.185] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[10Mar2025 17:43:08.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[10Mar2025 17:43:08.725] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[10Mar2025 17:43:37.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Timed out
+[10Mar2025 17:43:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[10Mar2025 17:43:37.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[10Mar2025 17:43:59.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12c790fb
+[10Mar2025 17:43:59.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:43977] logged in with entity id 469 at (-27.19439309273377, 245.0, 1481.3086397151158)
+[10Mar2025 17:43:59.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[10Mar2025 17:43:59.628] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[10Mar2025 17:44:02.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[10Mar2025 17:44:02.597] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[10Mar2025 17:44:02.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
