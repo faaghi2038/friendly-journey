@@ -1000,3 +1000,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 01:38:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> voy a comer
 [10Mar2025 01:38:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> afk
 [10Mar2025 01:38:43.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[10Mar2025 01:51:27.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Mar2025 01:51:46.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[10Mar2025 01:52:03.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+[10Mar2025 01:52:20.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[10Mar2025 01:52:38.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[10Mar2025 01:52:56.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
