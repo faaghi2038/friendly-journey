@@ -961,3 +961,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 17:44:02.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
 [10Mar2025 17:44:02.597] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
 [10Mar2025 17:44:02.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[10Mar2025 17:59:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[10Mar2025 18:01:02.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: commands.curios.add.success]
+[10Mar2025 18:01:30.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[10Mar2025 18:05:16.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
