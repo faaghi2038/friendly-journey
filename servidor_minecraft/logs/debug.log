@@ -5086,3 +5086,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 20:19:04.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [10Mar2025 20:19:04.260] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [10Mar2025 20:21:28.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1001 blocks]
+[10Mar2025 20:21:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 13 blocks]
+[10Mar2025 20:22:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1170 blocks]
+[10Mar2025 20:22:36.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[10Mar2025 20:22:36.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[10Mar2025 20:27:36.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[10Mar2025 20:27:36.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
