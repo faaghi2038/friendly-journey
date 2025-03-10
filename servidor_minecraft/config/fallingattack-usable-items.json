@@ -1,4 +1,11 @@
 {
     "minecraft:leather_boots": false,
-    "minecraft:leather_leggings": false
+    "minecraft:leather_leggings": false,
+    "minecraft:golden_axe": false,
+    "ageofweapons:titan_sword": true,
+    "farmersdelight:golden_knife": false,
+    "minecraft:crossbow": false,
+    "minecraft:diamond_chestplate": false,
+    "farmersdelight:diamond_knife": false,
+    "minecraft:diamond_pickaxe": false
 }

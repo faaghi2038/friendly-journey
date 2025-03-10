@@ -1,0 +1,5 @@
+{
+    "minecraft:player": false,
+    "minecraft:zombified_piglin": true,
+    "minecraft:piglin": true
+}
