@@ -1016,3 +1016,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 20:21:28.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1001 blocks]
 [10Mar2025 20:21:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 13 blocks]
 [10Mar2025 20:22:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1170 blocks]
+[10Mar2025 20:33:25.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[10Mar2025 20:33:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[10Mar2025 20:33:25.796] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[10Mar2025 20:33:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Mar2025 20:33:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Mar2025 20:33:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Mar2025 20:33:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Mar2025 20:33:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:overworld
+[10Mar2025 20:33:34.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_end
+[10Mar2025 20:33:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/deeperdarker:otherside
+[10Mar2025 20:33:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_nether
+[10Mar2025 20:33:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pendejillos): All chunks are saved
+[10Mar2025 20:33:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Mar2025 20:33:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Mar2025 20:33:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Mar2025 20:33:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
