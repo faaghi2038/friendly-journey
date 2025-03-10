@@ -4745,3 +4745,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Mar2025 18:32:36.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
 [10Mar2025 18:33:30.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 345 blocks]
 [10Mar2025 18:34:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 260 blocks]
+[10Mar2025 18:37:36.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[10Mar2025 18:37:36.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[10Mar2025 18:39:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1034 blocks]
+[10Mar2025 18:39:31.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1036 blocks]
+[10Mar2025 18:39:45.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 518 blocks]
+[10Mar2025 18:39:59.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 518 blocks]
+[10Mar2025 18:40:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 518 blocks]
+[10Mar2025 18:42:36.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[10Mar2025 18:42:36.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[10Mar2025 18:42:48.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1149 blocks]
+[10Mar2025 18:43:07.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 1184 blocks]
+[10Mar2025 18:43:31.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 83 blocks]
+[10Mar2025 18:43:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 101 blocks]
+[10Mar2025 18:43:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Successfully filled 592 blocks]
+[10Mar2025 18:44:48.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Mar2025 18:44:48.139] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[10Mar2025 18:44:48.143] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 807d4b02-2892-3ac2-a000-a9c5173caa95
+[10Mar2025 18:44:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Mar2025 18:44:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Mar2025 18:44:48.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Mar2025 18:44:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:overworld
+[10Mar2025 18:44:52.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_end
+[10Mar2025 18:44:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/deeperdarker:otherside
+[10Mar2025 18:44:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pendejillos]'/minecraft:the_nether
+[10Mar2025 18:44:52.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pendejillos
+[10Mar2025 18:44:52.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pendejillos
+[10Mar2025 18:44:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pendejillos): All chunks are saved
+[10Mar2025 18:44:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Mar2025 18:44:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Mar2025 18:44:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Mar2025 18:44:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Mar2025 18:44:53.027] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./pendejillos/serverconfig
+[10Mar2025 18:44:53.027] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Mar2025 18:44:53.028] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
